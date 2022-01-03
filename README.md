@@ -1,2 +1,2 @@
 # Leetcode-Solutions
-My codes of leetcode in C++ language.
+Codes for leetcode problems in C++ language.
